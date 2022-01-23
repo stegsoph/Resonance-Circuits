@@ -5,7 +5,7 @@ This repository contains the code and media files accompanying the video on yout
 
 ## Interactive Jupyter Notebook 
 
-The file ``ResonanceCircuit_lcapy.ipynb``` contains interactive plots visualizing the basic concepts of resonance circuits
+The file ```ResonanceCircuit_lcapy.ipynb``` contains interactive plots visualizing the basic concepts of resonance circuits
 
 * Resonance frequency
 * Bandwidth
@@ -30,6 +30,6 @@ The corresponding youtube video was created using Manim CE v0.13.0 running in a 
 
 ```
 manim ce v0.13.0
-
+manim-physics v0.2.3
 ```
 
