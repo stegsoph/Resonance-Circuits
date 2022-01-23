@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/sophi/Documents/GitHub/ResonanceCircuit/Manim/media/videos/Manim/480p15/partial_movie_files/Slide_1/3163782288_4275834980_2651800971.mp4'
+file 'file:C:/Users/sophi/Documents/GitHub/ResonanceCircuit/Manim/media/videos/Manim/480p15/partial_movie_files/Slide_1/2201830969_604026763_2340972351.mp4'
+file 'file:C:/Users/sophi/Documents/GitHub/ResonanceCircuit/Manim/media/videos/Manim/480p15/partial_movie_files/Slide_1/2201830969_2604092573_3453165255.mp4'
+file 'file:C:/Users/sophi/Documents/GitHub/ResonanceCircuit/Manim/media/videos/Manim/480p15/partial_movie_files/Slide_1/2201830969_3783827408_106868731.mp4'
+file 'file:C:/Users/sophi/Documents/GitHub/ResonanceCircuit/Manim/media/videos/Manim/480p15/partial_movie_files/Slide_1/2201830969_4144597952_106868731.mp4'
+file 'file:C:/Users/sophi/Documents/GitHub/ResonanceCircuit/Manim/media/videos/Manim/480p15/partial_movie_files/Slide_1/2201830969_3864074825_2382014292.mp4'
+file 'file:C:/Users/sophi/Documents/GitHub/ResonanceCircuit/Manim/media/videos/Manim/480p15/partial_movie_files/Slide_1/2201830969_3342198658_958569211.mp4'
+file 'file:C:/Users/sophi/Documents/GitHub/ResonanceCircuit/Manim/media/videos/Manim/480p15/partial_movie_files/Slide_1/2201830969_302326336_422083417.mp4'
